@@ -32,11 +32,11 @@
 ```bash
 > Front-End
 HTML5        CSS3         JavaScript
-React.js     TypeScript   TailwindCSS
+React.js     TypeScript   
 
 > Ferramentas
 Git          GitHub       VS Code
-Figma        Hostinger    Vercel
+      Hostinger    
 
 > Atualmente estudando
 Node.js      APIs REST    TanStack
