@@ -19,10 +19,26 @@ Git & GitHub
 Gosto de transformar ideias em interfaces bonitas, responsivas e funcionais.
 
 🛠️ Tecnologias
+💻 Principais ferramentas e tecnologias
+> Front-End
+HTML5        CSS3         JavaScript
+React.js     TypeScript   TailwindCSS
+
+
+> Ferramentas
+Git           GitHub        VS Code
+Figma         Hostinger     Vercel
+
+
+> Atualmente estudando
+Node.js       APIs REST     TanStack
 📌 Projeto em destaque
 🌐 Projeto Web
 
-🔗 Deploy:
+🔗 Visual Cursos (Projeto online):
+https://visualcursos.com.br/
+
+🔗 Segundo projeto publicado:
 https://tan-bat-972776.hostingersite.com/
 
 📂 Repositório:
