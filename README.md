@@ -21,7 +21,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,git,github,vscode,figma,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,ts,nodejs,git,github,vscode," />
 
 </div>
 
@@ -32,11 +32,11 @@
 ```bash
 > Front-End
 HTML5        CSS3         JavaScript
-React.js     TypeScript   
+React.js     TypeScript   TailwindCSS
 
 > Ferramentas
 Git          GitHub       VS Code
-      Hostinger    
+Figma        Hostinger    Vercel
 
 > Atualmente estudando
 Node.js      APIs REST    TanStack
