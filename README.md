@@ -1,16 +1,42 @@
-## Hi there 👋
+👋 Olá, eu sou Hiury Santos
 
-<!--
-**HiurySantos/HiurySantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Front-End em evolução
+🚀 Estudando JavaScript, React e TypeScript
+🎯 Focado em criar projetos modernos e melhorar minhas habilidades todos os dias
 
-Here are some ideas to get you started:
+🚀 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou apaixonado por tecnologia e desenvolvimento web.
+Atualmente estou aprofundando meus estudos em:
+
+HTML5
+CSS3
+JavaScript
+React
+TypeScript
+Git & GitHub
+
+Gosto de transformar ideias em interfaces bonitas, responsivas e funcionais.
+
+🛠️ Tecnologias
+📌 Projeto em destaque
+🌐 Projeto Web
+
+🔗 Deploy:
+https://tan-bat-972776.hostingersite.com/
+
+📂 Repositório:
+https://github.com/HiurySantos
+
+📊 GitHub Stats
+🌎 Onde me encontrar
+
+💼 LinkedIn
+https://www.linkedin.com/in/hiurysantos/
+
+📂 GitHub
+https://github.com/HiurySantos
+
+✨ Objetivo
+
+Continuar evoluindo como desenvolvedor, criar projetos cada vez melhores e conquistar oportunidades na área de tecnologia.
