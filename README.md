@@ -54,17 +54,6 @@ Node.js      APIs REST    TanStack
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HiurySantos&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HiurySantos&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 # 🔥 GitHub Streak
 
